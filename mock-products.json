@@ -1,0 +1,383 @@
+{
+  "tools": [
+    {
+      "shovels": [
+        {
+          "id": 1,
+          "name": "Digging shovel",
+          "description": "Description of Product 1",
+          " price": 10.99,
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          " name": "Square shovel",
+          "description": "Description of Product 2",
+          "price": 19.99,
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          " name": "Mini digging shovel",
+          "description": "Description of Product 2",
+          "price": 19.99,
+          "imageUrl": ""
+        },
+        {
+          "id": 4,
+          " name": "Mini square shovel",
+          "description": "Description of Product 2",
+          "price": 19.99,
+          "imageUrl": ""
+        }
+      ]
+    },
+    {
+      "axes": [
+        {
+          "id": 5,
+          " name": "Wood splitting axe",
+          "description": "Description of Product 2",
+          "price": 19.99,
+          "imageUrl": ""
+        },
+        {
+          "id": 6,
+          " name": "Mini axe",
+          "description": "Description of Product 2",
+          "price": 19.99,
+          "imageUrl": ""
+        }
+      ]
+    },
+    {
+      "hammers": [
+        {
+          "id": 7,
+          " name": "Hammer",
+          "description": "Description of Product 2",
+          "price": 19.99,
+          "imageUrl": ""
+        },
+        {
+          "id": 8,
+          " name": "Sledge hammer",
+          "description": "Description of Product 2",
+          "price": 19.99,
+          "imageUrl": ""
+        },
+        {
+          "id": 9,
+          " name": "Crack hammer",
+          "description": "Description of Product 2",
+          "price": 19.99,
+          "imageUrl": ""
+        },
+        {
+          "id": 10,
+          " name": "Rubber hammer",
+          "description": "Description of Product 2",
+          "price": 19.99,
+          "imageUrl": ""
+        }
+      ]
+    },
+    {
+      "screwdrivers": [
+        {
+          "id": 11,
+          " name": "Screwdriver set",
+          "description": "Description of Product 2",
+          "price": 19.99,
+          "imageUrl": ""
+        }
+      ]
+    }
+  ],
+
+  "electric-tools": [
+    {
+      "lawn-mowers": [
+        {
+          "id": 12,
+          "name": "Electric lawnmower",
+          "description": "Description of Product 1",
+          " price": 10.99,
+          "imageUrl": ""
+        }
+      ],
+
+      "chainsaws": [
+        {
+          "id": 13,
+          "name": "Chainsaw",
+          "description": "Description of Product 1",
+          " price": 10.99,
+          "imageUrl": ""
+        }
+      ],
+
+      "leaf-blowers": [
+        {
+          "id": 14,
+          "name": "Cordless leafblower",
+          "description": "Description of Product 1",
+          " price": 10.99,
+          "imageUrl": ""
+        },
+        {
+          "id": 15,
+          "name": "Corded leafblower",
+          "description": "Description of Product 1",
+          " price": 10.99,
+          "imageUrl": ""
+        }
+      ],
+
+      "Drills": [
+        {
+          "id": 16,
+          "name": "Cordless drill",
+          "description": "Description of Product 1",
+          " price": 10.99,
+          "imageUrl": ""
+        },
+        {
+          "id": 17,
+          "name": "Corded drill",
+          "description": "Description of Product 1",
+          " price": 10.99,
+          "imageUrl": ""
+        }
+      ]
+    }
+  ],
+
+  "Plants&seeds": [
+    {
+      "Flowers": [
+        {
+          "id": 18,
+          "name": "Fuchsia ultivars",
+          "description": "Description of Product 1",
+          " price": 10.99,
+          "imageUrl": ""
+        },
+        {
+          "id": 19,
+          "name": "Impatiens Neuguinea",
+          "description": "Description of Product 1",
+          " price": 10.99,
+          "imageUrl": ""
+        },
+        {
+          "id": 20,
+          "name": "Portenschlagiana",
+          "description": "Description of Product 1",
+          " price": 10.99,
+          "imageUrl": ""
+        },
+        {
+          "id": 21,
+          "name": "Viola cornuta",
+          "description": "Description of Product 1",
+          " price": 10.99,
+          "imageUrl": ""
+        }
+      ],
+
+      "Saplings": [
+        {
+          "id": 22,
+          "name": "Armeniaca vulgaris",
+          "description": "Description of Product 1",
+          " price": 10.99,
+          "imageUrl": ""
+        },
+        {
+          "id": 23,
+          "name": "Cerasus vulgaris",
+          "description": "Description of Product 1",
+          " price": 10.99,
+          "imageUrl": ""
+        },
+        {
+          "id": 24,
+          "name": "Prunus domestica",
+          "description": "Description of Product 1",
+          " price": 10.99,
+          "imageUrl": ""
+        },
+        {
+          "id": 25,
+          "name": "Pyrus communis",
+          "description": "Description of Product 1",
+          " price": 10.99,
+          "imageUrl": ""
+        }
+      ],
+
+      "Seeds": [
+        {
+          "Vegetable-seeds": [
+            {
+              "id": 26,
+              "name": "Green bean seeds",
+              "description": "Description of Product 1",
+              " price": 10.99,
+              "imageUrl": ""
+            },
+            {
+              "id": 27,
+              "name": "Helmut salad seeds",
+              "description": "Description of Product 1",
+              " price": 10.99,
+              "imageUrl": ""
+            },
+            {
+              "id": 28,
+              "name": "Radish seeds",
+              "description": "Description of Product 1",
+              " price": 10.99,
+              "imageUrl": ""
+            },
+            {
+              "id": 29,
+              "name": "Tomato seeds",
+              "description": "Description of Product 1",
+              " price": 10.99,
+              "imageUrl": ""
+            }
+          ],
+
+          "Fruit-seeds": [
+            {
+              "id": 30,
+              "name": "Strawberrie seeds",
+              "description": "Description of Product 1",
+              " price": 10.99,
+              "imageUrl": ""
+            },
+            {
+              "id": 31,
+              "name": "Watermelon seeds",
+              "description": "Description of Product 1",
+              " price": 10.99,
+              "imageUrl": ""
+            }
+          ],
+
+          "Flower-seeds": [
+            {
+              "id": 32,
+              "name": "Aster alpinus seeds",
+              "description": "Description of Product 1",
+              " price": 10.99,
+              "imageUrl": ""
+            },
+            {
+              "id": 33,
+              "name": "Chrysanthemum coccineum seeds",
+              "description": "Description of Product 1",
+              " price": 10.99,
+              "imageUrl": ""
+            },
+            {
+              "id": 34,
+              "name": "Lavandula angustifolia seeds",
+              "description": "Description of Product 1",
+              " price": 10.99,
+              "imageUrl": ""
+            },
+            {
+              "id": 35,
+              "name": "Petunia grandiflora seeds",
+              "description": "Description of Product 1",
+              " price": 10.99,
+              "imageUrl": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "Pots": [
+    {
+      "id": 36,
+      "name": "Ceramic pot",
+      "description": "Description of Product 1",
+      " price": 10.99,
+      "imageUrl": ""
+    },
+    {
+      "id": 37,
+      "name": "Plastic pot",
+      "description": "Description of Product 1",
+      " price": 10.99,
+      "imageUrl": ""
+    }
+  ],
+
+  "Garden decorations": [
+    {
+      "id": 38,
+      "name": "Gnome decoration",
+      "description": "Description of Product 1",
+      " price": 10.99,
+      "imageUrl": ""
+    },
+    {
+      "id": 39,
+      "name": "Led turtle decoration",
+      "description": "Description of Product 1",
+      " price": 10.99,
+      "imageUrl": ""
+    },
+    {
+      "id": 40,
+      "name": "Mushroom pathway lights decoration",
+      "description": "Description of Product 1",
+      " price": 10.99,
+      "imageUrl": ""
+    }
+  ],
+
+  "Pools&accessories": [
+    {
+      "id": 41,
+      "name": "Inflatable-pool",
+      "description": "Description of Product 1",
+      " price": 10.99,
+      "imageUrl": ""
+    },
+    {
+      "id": 42,
+      "name": "Metal frame pool",
+      "description": "Description of Product 1",
+      " price": 10.99,
+      "imageUrl": ""
+    },
+    {
+      "id": 43,
+      "name": "Pool brush",
+      "description": "Description of Product 1",
+      " price": 10.99,
+      "imageUrl": ""
+    },
+    {
+      "id": 44,
+      "name": "Pool floating holder",
+      "description": "Description of Product 1",
+      " price": 10.99,
+      "imageUrl": ""
+    },
+    {
+      "id": 45,
+      "name": "Pool leaf skimmer net",
+      "description": "Description of Product 1",
+      " price": 10.99,
+      "imageUrl": ""
+    }
+  ]
+}

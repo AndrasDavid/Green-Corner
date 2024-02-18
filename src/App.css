@@ -1,0 +1,96 @@
+.logo-nav {
+  display: flex;
+  justify-content: center;
+}
+
+/* Navigation bar items */
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  background-color: rgb(116, 188, 74);
+}
+
+.search-bar {
+  width: 100rem;
+}
+
+/* Dropdown container */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown toggle button */
+.dropdown-toggle {
+  background-color: rgb(89, 142, 59); /* Change to desired button color */
+  color: #fff; /* Change to desired text color */
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  padding: 14px;
+  font-size: 16px;
+}
+
+/* Dropdown menu */
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  border: 1px solid #ccc; /* Change to desired border color */
+  border-radius: 4px;
+  background-color: white;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  z-index: 1000; /* Ensure dropdown is on top of other elements */
+  width: 17rem;
+  text-align: center;
+}
+
+/* Dropdown menu items */
+.dropdown-item {
+  padding: 10px 20px;
+  color: #333; /* Change to desired text color */
+  text-decoration: none;
+  display: block;
+}
+
+/* Hover effect for dropdown items */
+.dropdown-item:hover {
+  background-color: #81b689; /* Change to desired hover background color */
+}
+
+.dropdown-item-text {
+  cursor: pointer;
+}
+
+.dropdown-item-text:hover {
+  color: darkgreen;
+}
+
+/* Submenu container */
+.submenu {
+  position: absolute;
+  left: 100%;
+  top: 0;
+  display: none;
+  min-width: 200px; /* Adjust width as needed */
+  background-color: #fff; /* Change to desired background color */
+  border: 1px solid #ccc; /* Change to desired border color */
+  border-radius: 4px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Show submenu on hover */
+.dropdown-item:hover > .submenu {
+  display: block;
+}
+
+.welcome-section {
+  background-color: rgb(100, 163, 63);
+  border-radius: 0px 0px 00px 12px;
+  max-width: 1849px;
+  height: 400px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
