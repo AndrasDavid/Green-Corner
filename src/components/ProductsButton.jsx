@@ -4,48 +4,48 @@ import Dropdown from "./Dropdown";
 const ProductsButton = () => {
   const dropdownItems = [
     {
-      label: "Tools",
+      label: "TOOLS",
       path: "/tools",
       submenu: [
-        { label: "Shovels", path: "/tools/shovels" },
-        { label: "Axes", path: "/tools/axes" },
-        { label: "Hammers", path: "/tools/hammers" },
-        { label: "Screwdrivers", path: "/tools/screwdrivers" },
+        { label: "SHOVELS", path: "/tools/shovels" },
+        { label: "AXES", path: "/tools/axes" },
+        { label: "HAMMERS", path: "/tools/hammers" },
+        { label: "SCREWDRIVERS", path: "/tools/screwdrivers" },
       ],
     },
     {
-      label: "Electric tools",
+      label: "ELECTRIC TOOLS",
       path: "/electric-tools",
       submenu: [
-        { label: "Lawn mowers", path: "/electric-tools/lawn-mowers" },
-        { label: "Chainsaws", path: "/electric-tools/chainsaws" },
-        { label: "Leaf blowers", path: "/electric-tools/leaf-blowers" },
-        { label: "Drills", path: "/electric-tools/drills" },
+        { label: "LAWN MOWERS", path: "/electric-tools/lawn-mowers" },
+        { label: "CHAINSAWS", path: "/electric-tools/chainsaws" },
+        { label: "LEAF BLOWERS", path: "/electric-tools/leaf-blowers" },
+        { label: "DRILLS", path: "/electric-tools/drills" },
       ],
     },
     {
-      label: "Plants & seeds",
+      label: "PLANTS & SEEDS",
       path: "/plants&seeds",
       submenu: [
-        { label: "Flowers", path: "/plants&seeds/flowers" },
-        { label: "Saplings", path: "/plants&seeds/saplings" },
+        { label: "FLOWERS", path: "/plants&seeds/flowers" },
+        { label: "SAPLINGS", path: "/plants&seeds/saplings" },
         {
-          label: "Seeds",
+          label: "SEEDS",
           path: "/plants&seeds/seeds",
           submenu: [
             {
-              label: "Vegetable seeds",
+              label: "VEGETABLE SEEDS",
               path: "/plants&seeds/seeds/vegetable-seeds",
             },
-            { label: "Fruit seeds", path: "/plants&seeds/seeds/fruit-seeds" },
-            { label: "Flower seeds", path: "/plants&seeds/seeds/flower-seeds" },
+            { label: "FRUIT SEEDS", path: "/plants&seeds/seeds/fruit-seeds" },
+            { label: "FLOWER SEEDS", path: "/plants&seeds/seeds/flower-seeds" },
           ],
         },
       ],
     },
-    { label: "Flower pots", path: "/flower-pots" },
-    { label: "Garden decorations", path: "/garden-decorations" },
-    { label: "Pools & accessories", path: "/pools&accessories" },
+    { label: "FLOWER POTS", path: "/flower-pots" },
+    { label: "GARDEN DECORATIONS", path: "/garden-decorations" },
+    { label: "POOLS & ACCESSORIES", path: "/pools&accessories" },
   ];
 
   return (

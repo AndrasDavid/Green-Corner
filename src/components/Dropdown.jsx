@@ -11,8 +11,9 @@ const Dropdown = ({ items }) => {
   return (
     <div className="dropdown">
       <button className="dropdown-toggle" onClick={toggleDropdown}>
-        Products
+        PRODUCTS
       </button>
+
       {isOpen && (
         <div className="dropdown-menu">
           {items.map((item, index) => (

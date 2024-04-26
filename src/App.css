@@ -7,14 +7,18 @@
 
 .navbar {
   display: flex;
-  justify-content: center;
-  margin: auto;
-  background-color: rgb(116, 188, 74);
+  justify-content: space-around;
+  padding-top: 40px;
 }
 
 .search-bar {
   width: 100rem;
+  margin-top: 30px;
+  margin-left: 40px;
+  height: 40px;
 }
+
+/* DROP DOWN MENU */
 
 /* Dropdown container */
 .dropdown {
@@ -24,8 +28,7 @@
 
 /* Dropdown toggle button */
 .dropdown-toggle {
-  background-color: rgb(89, 142, 59); /* Change to desired button color */
-  color: #fff; /* Change to desired text color */
+  background-color: rgb(78, 194, 39);
   padding: 10px 20px;
   border: none;
   cursor: pointer;
@@ -38,11 +41,11 @@
   position: absolute;
   top: 100%;
   left: 0;
-  border: 1px solid #ccc; /* Change to desired border color */
+  border: 1px solid #ccc;
   border-radius: 4px;
   background-color: white;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  z-index: 1000; /* Ensure dropdown is on top of other elements */
+  z-index: 1000;
   width: 17rem;
   text-align: center;
 }
@@ -50,14 +53,14 @@
 /* Dropdown menu items */
 .dropdown-item {
   padding: 10px 20px;
-  color: #333; /* Change to desired text color */
+  color: #333;
   text-decoration: none;
   display: block;
 }
 
 /* Hover effect for dropdown items */
 .dropdown-item:hover {
-  background-color: #81b689; /* Change to desired hover background color */
+  background-color: #62de75;
 }
 
 .dropdown-item-text {
@@ -74,9 +77,9 @@
   left: 100%;
   top: 0;
   display: none;
-  min-width: 200px; /* Adjust width as needed */
-  background-color: #fff; /* Change to desired background color */
-  border: 1px solid #ccc; /* Change to desired border color */
+  min-width: 200px;
+  background-color: #fff;
+  border: 1px solid #ccc;
   border-radius: 4px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
@@ -86,11 +89,130 @@
   display: block;
 }
 
-.welcome-section {
-  background-color: rgb(100, 163, 63);
-  border-radius: 0px 0px 00px 12px;
-  max-width: 1849px;
-  height: 400px;
-  margin: 0 auto;
-  padding: 0 20px;
+/* WEBSITE PRODUCTS */
+
+.product {
+  background-color: aquamarine;
+  margin-bottom: 20px;
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  padding: 20px;
+}
+
+.product img {
+  width: 200px;
+  height: 230px;
+}
+
+.product-name {
+  color: black;
+  font-size: 18px;
+}
+
+.product-price {
+  color: rgb(133, 207, 90);
+  font-size: 26px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.products-container {
+  display: grid;
+  grid-template-columns: repeat(5, 0fr);
+  row-gap: 20px;
+  column-gap: 40px;
+  width: auto;
+  margin: 4% 0 0 12.8%;
+}
+
+/* PRODUCTS PAGE */
+
+.product-page {
+  max-width: calc(1600px + 32px);
+  margin: auto;
+}
+
+.product-page-name {
+  font-weight: 400;
+  line-height: 1.32;
+  padding-bottom: 40px;
+}
+
+.product-elements {
+  display: flex;
+}
+
+.product-page-image {
+  height: 580px;
+  width: 580px;
+  padding-bottom: 60px;
+}
+
+.product-page-image img {
+  height: 100%;
+  width: 100%;
+  display: block;
+}
+
+.product-page-details {
+  width: 45%;
+  padding-left: 30px;
+  box-sizing: border-box;
+}
+
+.product-page-price {
+  color: rgb(133, 207, 90);
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.product-page-description {
+  font-size: 16px;
+}
+
+.product-description {
+  font-weight: 400;
+  line-height: 1.32;
+}
+
+.description-container {
+  max-width: calc(1600px + 32px);
+  margin: auto;
+  padding: 1% 0 1% 0;
+  border-top: 1px solid #d2d8e1;
+  border-bottom: 1px solid #d2d8e1;
+}
+
+.test {
+  width: 100%;
+  height: auto;
+}
+
+.my-account {
+  position: relative;
+  display: inline-block;
+}
+
+.account-btn {
+  border-style: none;
+  font-size: 20px;
+  background-color: rgb(78, 194, 39);
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  padding: 14px;
+  font-size: 16px;
+}
+
+.account-info {
+  position: absolute;
+  top: 45px;
+  display: flex;
+  background-color: #62de75;
+}
+
+.account-info p {
+  font-size: 20px;
 }

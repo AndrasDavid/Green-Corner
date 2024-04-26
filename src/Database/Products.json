@@ -1,0 +1,397 @@
+[
+  {
+    "id": 1,
+    "name": "Digging shovel",
+    "description": "Description of Product 1",
+    "price": 20,
+    "category": "tools",
+    "subcategory": "shovels",
+    "image": "/images/Digging-shovel.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Square shovel",
+    "description": "Description of Product 2",
+    "price": 18,
+    "category": "tools",
+    "subcategory": "shovels",
+    "image": "/images/Square-shovel.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mini digging shovel",
+    "description": "Description of Product 2",
+    "price": 15,
+    "category": "tools",
+    "subcategory": "shovels",
+    "image": "/images/Mini-digging-shovel.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mini square shovel",
+    "description": "Description of Product 2",
+    "price": 16,
+    "category": "tools",
+    "subcategory": "shovels",
+    "image": "/images/Mini-square-shovel.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Wood splitting axe",
+    "description": "Description of Product 2",
+    "price": 50,
+    "category": "tools",
+    "subcategory": "axes",
+    "image": "/images/Wood-splitting-axe.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Mini axe",
+    "description": "Description of Product 2",
+    "price": 30,
+    "category": "tools",
+    "subcategory": "axes",
+    "image": "/images/Mini-axe.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Hammer",
+    "description": "Description of Product 2",
+    "price": 8,
+    "category": "tools",
+    "image": "/images/Hammer.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Sledge hammer",
+    "description": "Description of Product 2",
+    "price": 30,
+    "category": "tools",
+    "subcategory": "hammers",
+    "image": "/images/Sledge-hammer.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Crack hammer",
+    "description": "Description of Product 2",
+    "price": 15,
+    "category": "tools",
+    "subcategory": "hammers",
+    "image": "/images/Crack-hammer.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Rubber hammer",
+    "description": "Description of Product 2",
+    "price": 6,
+    "category": "tools",
+    "subcategory": "hammers",
+    "image": "/images/Rubber-hammer.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Screwdriver set",
+    "description": "Description of Product 2",
+    "price": 20,
+    "category": "tools",
+    "subcategory": "screwdrivers",
+    "image": "/images/Screwdriver-set.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Electric lawnmower",
+    "description": "Description of Product 1",
+    "price": 200,
+    "category": "electric-tools",
+    "subcategory": "lawn-mowers",
+    "image": "/images/Electric-lawnmower.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Chainsaw",
+    "description": "Description of Product 1",
+    "price": 160,
+    "category": "electric-tools",
+    "subcategory": "chainsaws",
+    "image": "/images/Chainsaw.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Cordless leafblower",
+    "description": "Description of Product 1",
+    "price": 180,
+    "category": "electric-tools",
+    "subcategory": "leaf-blowers",
+    "image": "/images/Cordless-leafblower.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Corded leafblower",
+    "description": "Description of Product 1",
+    "price": 120,
+    "category": "electric-tools",
+    "subcategory": "leaf-blowers",
+    "image": "/images/Corded-leafblower.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Corded drill",
+    "description": "Description of Product 1",
+    "price": 40,
+    "category": "electric-tools",
+    "subcategory": "drills",
+    "image": "/images/Corded-drill.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Fuchsia ultivars",
+    "description": "Description of Product 1",
+    "price": 10,
+    "category": "plants&seeds",
+    "subcategory": "flowers",
+    "image": "/images/Fuchsia-ultivars-flower.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Impatiens Neuguinea",
+    "description": "Description of Product 1",
+    "price": 8,
+    "category": "plants&seeds",
+    "subcategory": "flowers",
+    "image": "/images/Impatiens Neuguinea-flower.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Portenschlagiana",
+    "description": "Description of Product 1",
+    "price": 12,
+    "category": "plants&seeds",
+    "subcategory": "flowers",
+    "image": "/images/Portenschlagiana-flower.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Viola cornuta",
+    "description": "Description of Product 1",
+    "price": 5,
+    "category": "plants&seeds",
+    "subcategory": "flowers",
+    "image": "/images/Viola-cornuta-flower.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Armeniaca vulgaris",
+    "description": "Description of Product 1",
+    "price": 5,
+    "category": "plants&seeds",
+    "subcategory": "saplings",
+    "image": "/images/Armeniaca-vulgaris-sapling.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Cerasus vulgaris",
+    "description": "Description of Product 1",
+    "price": 5,
+    "category": "plants&seeds",
+    "subcategory": "saplings",
+    "image": "/images/Cerasus-vulgaris-sapling.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Prunus domestica",
+    "description": "Description of Product 1",
+    "price": 5,
+    "category": "plants&seeds",
+    "subcategory": "saplings",
+    "image": "/images/Prunus-domestica-sapling.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Pyrus communis",
+    "description": "Description of Product 1",
+    "price": 5,
+    "category": "plants&seeds",
+    "subcategory": "saplings",
+    "image": "/images/Pyrus-communis-sapling.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Green bean seeds",
+    "description": "Description of Product 1",
+    "price": 1,
+    "category": "plants&seeds",
+    "subcategory": "seeds",
+    "subsubcategory": "vegetable-seeds",
+    "image": "/images/Green-bean-seeds.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Helmut salad seeds",
+    "description": "Description of Product 1",
+    "price": 1,
+    "category": "plants&seeds",
+    "subcategory": "seeds",
+    "subsubcategory": "vegetable-seeds",
+    "image": "/images/Helmut-salad-seeds.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Radish seeds",
+    "description": "Description of Product 1",
+    "price": 1,
+    "category": "plants&seeds",
+    "subcategory": "seeds",
+    "subsubcategory": "vegetable-seeds",
+    "image": "/images/Radish-seeds.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Tomato seeds",
+    "description": "Description of Product 1",
+    "price": 1,
+    "category": "plants&seeds",
+    "subcategory": "seeds",
+    "subsubcategory": "vegetable-seeds",
+    "image": "/images/Tomato-seeds.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Strawberrie seeds",
+    "description": "Description of Product 1",
+    "price": 1,
+    "category": "plants&seeds",
+    "subcategory": "seeds",
+    "subsubcategory": "fruit-seeds",
+    "image": "/images/Strawberrie-seeds.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Watermelon seeds",
+    "description": "Description of Product 1",
+    "price": 1,
+    "category": "plants&seeds",
+    "subcategory": "seeds",
+    "subsubcategory": "fruit-seeds",
+    "image": "/images/Watermelon-seeds.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Aster alpinus seeds",
+    "description": "Description of Product 1",
+    "price": 1,
+    "category": "plants&seeds",
+    "subcategory": "seeds",
+    "subsubcategory": "flower-seeds",
+    "image": "/images/Aster-alpinus-seeds.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Chrysanthemum coccineum seeds",
+    "description": "Description of Product 1",
+    "price": 1,
+    "category": "plants&seeds",
+    "subcategory": "seeds",
+    "subsubcategory": "flower-seeds",
+    "image": "/images/Chrysanthemum-coccineum-seeds.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Lavandula angustifolia seeds",
+    "description": "Description of Product 1",
+    "price": 1,
+    "category": "plants&seeds",
+    "subcategory": "seeds",
+    "subsubcategory": "flower-seeds",
+    "image": "/images/Lavandula-angustifolia-seeds.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Petunia grandiflora seeds",
+    "description": "Description of Product 1",
+    "price": 1,
+    "category": "plants&seeds",
+    "subcategory": "seeds",
+    "subsubcategory": "flower-seeds",
+    "image": "/images/Petunia-grandiflora-seeds.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Ceramic flowerpot",
+    "description": "Description of Product 1",
+    "price": 12,
+    "category": "flower-pots",
+    "image": "/images/Ceramic-pot.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Plastic flowerpot",
+    "description": "Description of Product 1",
+    "price": 6,
+    "category": "flower-pots",
+    "image": "/images/Plastic-pot.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Gnome decoration",
+    "description": "Description of Product 1",
+    "price": 8,
+    "category": "garden-decorations",
+    "image": "/images/Gnome-decoration.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Led turtle decoration",
+    "description": "Description of Product 1",
+    "price": 7,
+    "category": "garden-decorations",
+    "image": "/images/Led-turtle-decoration.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Mushroom pathway lights decoration",
+    "description": "Description of Product 1",
+    "price": 4,
+    "category": "garden-decorations",
+    "image": "/images/Mushroom-pathway-lights-decoration.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Inflatable-pool",
+    "description": "Description of Product 1",
+    "price": 50,
+    "category": "pools&accessories",
+    "image": "/images/Inflatable-pool.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Metal frame pool",
+    "description": "Description of Product 1",
+    "price": 75,
+    "category": "pools&accessories",
+    "image": "/images/Metal-frame-pool.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Pool brush",
+    "description": "Description of Product 1",
+    "price": 12,
+    "category": "pools&accessories",
+    "image": "/images/Pool-brush.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Pool floating holder",
+    "description": "Description of Product 1",
+    "price": 4,
+    "category": "pools&accessories",
+    "image": "/images/Pool-floating-holder.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Pool leaf skimmer net",
+    "description": "Description of Product 1",
+    "price": 8,
+    "category": "pools&accessories",
+    "image": "/images/Pool-leaf-skimmer-net.jpg"
+  }
+]
